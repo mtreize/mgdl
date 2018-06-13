@@ -51,8 +51,8 @@ class Ygg
         $this->torrents = array();
         $this->search = $search;
         $this->pagination = $pagination;
-        $this->login = 'megusta2';
-        $this->password = 'youdontsay';
+        $this->login = '****';
+        $this->password = '****';
         $this->order = 'seeds';
         $this->checkWithoutPagination = false;
 
